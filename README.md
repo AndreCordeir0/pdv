@@ -18,7 +18,7 @@ Informar quais tecnologias foram usadas no projeto
 
 Abaixo temos uma lista de pessoas que participaram deste projeto ao longo dos anos.
 
-### Equipe 1º/2023
+### Equipe 2º/2023
 
 | E-mail | Nome | Função |
 |------|--------|-------|
